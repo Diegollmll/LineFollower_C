@@ -2,7 +2,7 @@
 
 This repository contents the instructions to create a line follower with three sensors
 
-This is another version from the last line follower (https://github.com/Diegollmll/Line_Follower_Assembly)
+This is the "C version" from the last line follower (https://github.com/Diegollmll/Line_Follower_Assembly)
 
 In the realization of this project, the PIC16F15244 Curiosity Nano was chosen as the controller, due to its easy way to get and to use it, in the same way the TB6612FNG driver was used, due to that it performs an incredible job controlling DC motors and stepper motors. This line follower robot has a 3 sensor strip that generates an output for the inputs of the TB6612FNG driver. To carry out the programming code, the MPLABX software was used, making use of the C language, to later simulate in the Proteus Professional software to make the pcb wiev and 3d view. The line follower robot moves along a 20mm wide line and stops at a 20cm wide black box.
 
