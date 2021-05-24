@@ -16,7 +16,7 @@ This repository contents:
 Software requeriments:
 
 - MPLABX (Version 5.40)
-- Proteus Professional (Version 8.5)
+- Proteus Professional (Version 8.9)
 
 Hardware requeriments (physical implementation):
 
