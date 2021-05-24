@@ -8,33 +8,33 @@ In the realization of this project, the PIC16F15244 Curiosity Nano was chosen as
 
 This repository contents:
 
--Source code (C language)
--Schematic in Proteus Professional (File .pdsprj)
--PCB view in Proteus Professional
--3D view in Proteus Professional
+- Source code (C language)
+- Schematic in Proteus Professional (File .pdsprj)
+- PCB view in Proteus Professional
+- 3D view in Proteus Professional
 
 Software requeriments:
 
--MPLABX (Version 5.40)
--Proteus Professional (Version 8.5)
+- MPLABX (Version 5.40)
+- Proteus Professional (Version 8.5)
 
 Hardware requeriments (physical implementation):
 
--PIC16F15244 or similar
--Driver TB6612FNG or similar
--Gearmotors
--Sensors strip
--Programmer Pickit (Optional)
+- PIC16F15244 or similar
+- Driver TB6612FNG or similar
+- Gearmotors
+- Sensors strip
+- Programmer Pickit (Optional)
 
 How to install:
 
--Download the project
--Load the source code in MPLABX
--Program the Controller
+- Download the project
+- Load the source code in MPLABX
+- Program the Controller
 
 Authors:
 
 Universidad de Ibague - Electronica Digital II
 
--Diego Alejandro Torres Urrego (https://github.com/Diegollmll)
--Luis Fernando Gomez Diaz
+- Diego Alejandro Torres Urrego (https://github.com/Diegollmll)
+- Luis Fernando Gomez Diaz
